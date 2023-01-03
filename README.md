@@ -1,1 +1,1 @@
-# Rss-feed
+# Dynamic RSS feed of LaGazetteTulliste
